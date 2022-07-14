@@ -1,5 +1,5 @@
 {
-  "name": "echo",
+  "name": "@angrychocobo/echo",
   "version": "0.0.1",
   "description": "a useful function can return what you had passed ~",
   "main": "src/index.js",

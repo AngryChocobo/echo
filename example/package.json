@@ -11,6 +11,6 @@
   "author": "AngryChocobo",
   "license": "ISC",
   "dependencies": {
-    "echo": "file:.."
+    "@angrychocobo/echo": "file:.."
   }
 }
