@@ -1,0 +1,21 @@
+{
+  "name": "echo",
+  "version": "0.0.1",
+  "description": "a useful function can return what you had passed ~",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngryChocobo/echo.git"
+  },
+  "keywords": [],
+  "author": "AngryChocobo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngryChocobo/echo/issues"
+  },
+  "homepage": "https://github.com/AngryChocobo/echo#readme"
+}
