@@ -1,3 +1,3 @@
-export function echo(...args) {
+export function echo(args) {
   return args;
 }
