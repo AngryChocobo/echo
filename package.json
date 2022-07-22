@@ -1,6 +1,6 @@
 {
   "name": "@angrychocobo/echo",
-  "version": "0.1.4",
+  "version": "0.1.8",
   "description": "a useful function can return what you had passed ~",
   "main": "lib/index.js",
   "type": "module",
@@ -9,9 +9,9 @@
   ],
   "scripts": {
     "test": "jest",
+    "build": "tsc",
     "tw": "npm run test --watch",
     "lint": "eslint ./src",
-    "build": "tsc",
     "p": "npm publish --access=public"
   },
   "repository": {
